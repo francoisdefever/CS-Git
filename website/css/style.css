@@ -1,0 +1,43 @@
+body {
+    background-color: orangered;
+}
+
+hr {
+  color: black;
+}
+
+h1 {
+  color: white;
+  font-size: 4em;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font: white;
+  font-size: 2.5em;
+  font-family: sans-serif;
+  margin-left: 1em;
+}
+
+section {
+  background-color: white;
+  border-radius: 5px;
+  padding: 0.25em;
+  margin: 3em;
+}
+
+img {
+  width: 100px;
+  height: 150px;
+}
+
+table {
+  font-size: 1.5em;
+  font-family: sans-serif;
+}
+
+td {
+  margin: auto;
+  padding: 1em;
+}
